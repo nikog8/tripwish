@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikog8.github.io/tripwish/sitemap.xml
